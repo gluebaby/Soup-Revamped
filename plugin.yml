@@ -1,0 +1,24 @@
+name: SoupRevamped
+main: me.undeadguppy.souprevamped.Main
+author: Undead_Guppy
+depend: [Vault, NametagEdit]
+description: SoupRevamped - InvadedLands.net - Copyright 2017 Guthrie Mass
+version: 1.0
+commands:
+  poison:
+  regen: 
+  strength:
+  speed:
+  diamond:
+  knockback:
+    aliases: [kb]
+  protection:
+    aliases: [prot]
+  refill:
+  repair:
+    aliases: [fix]
+  sharp:
+    aliases: [sharpness]
+  soup:
+  spawn:
+  
